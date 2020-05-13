@@ -1,0 +1,1 @@
+[{"input":"5 1\nBGGBG","output":"GBGGB"},{"input":"5 2\nBGGBG","output":"GGBGB"},{"input":"4 1\nGGGB","output":"GGGB"}]

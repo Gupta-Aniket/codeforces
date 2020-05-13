@@ -1,0 +1,1 @@
+[{"input":"6\ntom\nlucius\nginny\nharry\nginny\nharry","output":"NO\nNO\nNO\nNO\nYES\nYES"},{"input":"3\na\na\na","output":"NO\nYES\nYES"}]

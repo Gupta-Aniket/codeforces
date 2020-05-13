@@ -1,0 +1,1 @@
+[{"input":"code\nedoc\n\n","output":"YES\n\n"},{"input":"abb\naba\n\n","output":"NO\n\n"},{"input":"code\ncode\n\n","output":"NO\n\n"}]
